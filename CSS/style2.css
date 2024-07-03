@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font: size 40 px;
+}
+img:hover{
+    background-color: gold;
+}
+.bacon{
+    background-color: red;
+}
+
+.broccolli{
+    background-color: greenyellow;
+}
+.circular{
+    border-radius: 50%;
+}
